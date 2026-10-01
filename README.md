@@ -4,6 +4,12 @@ Convert Markdown to `.docx` using a `.docx` template with `docxtpl`.
 
 Requires Python 3.11+.
 
+## Installation
+
+```bash
+pip install docxmdtpl
+```
+
 ## Quick start
 
 Install the dependencies:
