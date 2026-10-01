@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+issues/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Arquivos locais
+AGENTS.md
+main_teste.py
+
+# testes reais 
+.agents/
+.pytest_cache/
+tests/
+docs/
+.specs/
